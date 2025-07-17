@@ -60,9 +60,7 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License 📜
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact 📧
 
@@ -89,10 +87,4 @@ git commit -m "Add professional README file"
 git push origin main
 ```
 
-### Customization Tips:
-1. Replace placeholder screenshots with your actual system screenshots
-2. Update the email address
-3. Add your own features list if you've modified the system
-4. Include any special setup instructions specific to your version
 
-Would you like me to modify any specific section or add more technical details?
